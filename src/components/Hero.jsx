@@ -44,7 +44,7 @@ const Hero = () => {
               initial = "hidden"
               animate = "visible"
               whileHover={{ scale: 1.1 }}
-              href="/cv.pdf" download className='mb-8 mr-2 rounded bg-gradient-to-r from-indigo-700 
+              href="/NilupulPathumCV.pdf" download className='mb-8 mr-2 rounded bg-gradient-to-r from-indigo-700 
             to-purple-800 px-2 py-1 text-lg font-thin '>
               Download CV
             </motion.a>
